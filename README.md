@@ -1,2 +1,2 @@
-intale as dependências executando `yarn`
+instale as dependências executando `yarn`
 rode o programa executando `yarn dev` 
