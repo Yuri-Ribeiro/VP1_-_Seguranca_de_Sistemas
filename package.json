@@ -1,0 +1,13 @@
+{
+  "name": "vp1-seguranca_de_sistemas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "crypto": "^1.0.1"
+  }
+}
